@@ -1,2 +1,3 @@
-# ukolnicek
-Tohle je můj první projekt - úkolníček. Webová aplikace s HTML, CSS a JS.
+# Úkolníček
+
+Toto je můj první projekt: Úkolníček. Webová aplikace s HTML, CSS a JS.
